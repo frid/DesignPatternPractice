@@ -1,0 +1,4 @@
+*.idb
+**/Debug/**.*
+**/Debug
+*.sdf
